@@ -62,7 +62,7 @@
         "permissions": [
           {
             "role": "anonymous",
-            "actions": ["create", "read", "update", "delete"]
+            "actions": ["read"]
           }
         ]
       },
@@ -71,7 +71,7 @@
         "permissions": [
           {
             "role": "anonymous",
-            "actions": ["create", "read", "update", "delete"]
+            "actions": ["read"]
           }
         ]
       },
